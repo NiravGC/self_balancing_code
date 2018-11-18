@@ -1,2 +1,2 @@
-# self_balancing_code
-mmm
+# Dancing Segway Project
+Nirav Ganju-Cass and Robert Hyde
